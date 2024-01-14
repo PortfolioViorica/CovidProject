@@ -27,4 +27,4 @@ Address any missing or inconsistent data.
 Provide basic statistics as epidemiological analysis such as the total number of cases, deaths; vaccinated peoples by evaluating the progress of vaccination campaigns represents vaccination analysis. Exploration geographical distribution and trends over time.
 Present visualizations (maps, charts, graphs) to illustrate key points.
 
-### Visualization of the data using Tableau data visualization tool that allows to create interactive dashboards.
+### Visualization of the data using Tableau data visualization tool that allowed me to create interactive dashboard.
